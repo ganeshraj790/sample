@@ -29,9 +29,9 @@ public class UseMobile {
 		mobile3.discountAmount=1200;
 		mobile3.netPrice=mobile3.price-mobile3.discountAmount;
 		
-		System.out.println("Brand ="+mobile1.brand+" ,Netprice ="+mobile1.netPrice);
-		System.out.println("Brand ="+mobile2.brand+" ,Netprice ="+mobile2.netPrice);
-		System.out.println("Brand ="+mobile3.brand+" ,Netprice ="+mobile3.netPrice);
+		System.out.println("Brand :"+mobile1.brand+" ,Netprice :"+mobile1.netPrice);
+		System.out.println("Brand :"+mobile2.brand+" ,Netprice :"+mobile2.netPrice);
+		System.out.println("Brand :"+mobile3.brand+" ,Netprice :"+mobile3.netPrice);
 		
 	}
 

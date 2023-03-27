@@ -25,8 +25,8 @@ public class UseStudent {
 		student2.chemistrymark=75;
 		student2.totalmark=student2.tamilmark+student2.englishmark+student2.biologymark+student2.mathsmark+student2.physicsmark+student2.chemistrymark;
 		student2.average=student2.totalmark/6;
-		System.out.println("Name ="+student1.name+"  Average ="+student1.average);
-		System.out.println("Name ="+student2.name+"  Average ="+student2.average);
+		System.out.println("Name :"+student1.name+"  Average :"+student1.average);
+		System.out.println("Name :"+student2.name+"  Average :"+student2.average);
 		
 	}
 
